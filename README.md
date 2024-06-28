@@ -28,8 +28,11 @@ I'm Shaiekh Zayed Bin Hasan (@frost23z), a Computer Science and Engineering stud
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical&card_width=300)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&theme=radical)
+ -->
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical&card_width=300&text_bold=false" alt="My GitHub stats"/>
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
 
 <!--
 **frost23z/frost23z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
