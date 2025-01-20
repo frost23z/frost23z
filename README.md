@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaiekh%20Zayed%20Bin%20Hasan&fontSize=50&animation=fadeIn&desc=Software%20Developer&descSize=20&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaiekh%20Zayed%20Bin%20Hasan&fontSize=50&animation=fadeIn)
 
 <div align="center">
   
@@ -44,14 +44,18 @@ I'm a Computer Science and Engineering student at Mawlana Bhashani Science & Tec
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical&text_bold=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ### 🤝 Let's Connect!
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayed23/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayed7h2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frost23z)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
