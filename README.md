@@ -44,8 +44,8 @@ I'm a Computer Science and Engineering student at Mawlana Bhashani Science & Tec
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=radical&text_bold=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=vue-dark&text_bold=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&langs_count=10&theme=vue-dark"/>
 </div>
 
 ### 🤝 Let's Connect!
