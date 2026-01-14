@@ -1,63 +1,96 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaiekh%20Zayed%20Bin%20Hasan&fontSize=50&animation=fadeIn)
 
-## About Me 🧑‍💻
+## 📋 About Me
 
-I'm a **Computer Science and Engineering** student at **Mawlana Bhashani Science & Technology University**, passionate about creating efficient and innovative software solutions. I specialize in **mobile app development (Android)** and **backend development**, and I'm always eager to learn and explore new technologies.
+I am a Computer Science and Engineering student at Mawlana Bhashani Science & Technology University, focused on backend engineering and Android development. I build scalable services using Spring Boot (Java) and Laravel (PHP), with a strong emphasis on clean architecture, performance, and maintainability.
 
-### 🎯 Currently
-- 🎓 Pursuing **B.Sc. in Computer Science and Engineering**
-- 🌱 Focusing on **Android Development** and **Backend Technologies**
-- 💼 Open to collaborating on **innovative projects**
-- 🚀 Building hobby projects to showcase my skills
-- 📚 Learning about **cloud computing** and **DevOps practices**
-- 📝 Improving my skills in **system design** and **software architecture**
+### 🎯 Current Focus
+- **Backend:** Spring Boot/Java, Laravel/PHP (APIs, microservices, data)
+- **Full-Stack:** React & Vue for end-to-end delivery
+- **Mobile:** Android fundamentals (Kotlin/Java)
+- **Infra:** Cloud/DevOps and system design
+- **Portfolio:** Backend architecture, performance, clean code
 
-### 💡 Areas of Interest
-- 📱 **Mobile App Development** (Android, cross-platform)
-- 💻 **Backend Development** (APIs, microservices)
-- 🌐 **Web Development** (Full-stack, modern frameworks)
-- 🤖 **Machine Learning** (Exploring, basic projects)
-- ☁️ **Cloud Computing** (AWS, Firebase, deployment)
-- 🛡️ **Cybersecurity** (Fundamentals, best practices)
+### 💡 Areas of Expertise
+- 💻 **Backend (Core):** Spring Boot/Java, Laravel/PHP, RESTful APIs, microservices, data modeling, performance tuning
+- 🌐 **Full-Stack:** React, Vue.js, end-to-end features, CI-friendly workflows
+- 📱 **Mobile:** Android native fundamentals (Kotlin/Java)
+- 🛠️ **API Design:** Auth, pagination, caching, observability
+- ☁️ **Cloud & DevOps:** AWS, Firebase, Docker, containerization, deployment
+- 🛡️ **Architecture:** System design, clean code, design patterns, testing mindset
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Programming Languages**
+### Programming Languages
 ![C](https://img.shields.io/badge/-C-333?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPHBhdGggZD0iTTE2LjA0OTcgOC40NDA2MkMyMi42Mzc4IDMuMzI2MDcgMTkuMjU2NiAwIDE5LjI1NjYgMEMxOS43NTk4IDUuMjg3MzggMTMuODEzIDYuNTM1ODMgMTIuMjE4OSAxMC4xNjkyQzExLjEzMTIgMTIuNjQ4NSAxMi45NjM4IDE0LjgxOTMgMTYuMDQ3NSAxNy41NTU0QzE1Ljc3NDkgMTYuOTQ5NCAxNS4zNTQ0IDE2LjM2MDYgMTQuOTI4OCAxNS43NjQ1QzEzLjQ3NjkgMTMuNzMxMyAxMS45NjQ1IDExLjYxMzIgMTYuMDQ5NyA4LjQ0MDYyWiIgZmlsbD0iI0U3NkYwMCIvPg0KPHBhdGggZD0iTTE3LjEwMTUgMTguNjc3QzE3LjEwMTUgMTguNjc3IDE5LjA4MzUgMTcuMDc3OSAxNy41MTM5IDE1LjMwMDhDMTIuMTkzMSA5LjI3MTg2IDIzLjMzMzMgNi41MzU4MyAyMy4zMzMzIDYuNTM1ODNDMTYuNTMxNyA5LjgxMjUgMTcuNTQ3MSAxMS43NTc0IDE5LjI1NjcgMTQuMTIwMkMyMS4wODcxIDE2LjY1MzggMTcuMTAxNSAxOC42NzcgMTcuMTAxNSAxOC42NzdaIiBmaWxsPSIjRTc2RjAwIi8+DQo8cGF0aCBkPSJNMjIuOTM3IDIzLjQ0NTZDMjkuMDQyMyAyMC4zMjU4IDI2LjIxOTUgMTcuMzI3OCAyNC4yNDkyIDE3LjczMTdDMjMuNzY2MiAxNy44MzA1IDIzLjU1MDkgMTcuOTE2MiAyMy41NTA5IDE3LjkxNjJDMjMuNTUwOSAxNy45MTYyIDIzLjczMDIgMTcuNjQgMjQuMDcyNiAxNy41MjA0QzI3Ljk3MDUgMTYuMTcyOSAzMC45NjgyIDIxLjQ5NDkgMjIuODE0MyAyMy42MDI4QzIyLjgxNDMgMjMuNjAyOSAyMi45MDg4IDIzLjUxOTggMjIuOTM3IDIzLjQ0NTZaIiBmaWxsPSIjNTM4MkExIi8+DQo8cGF0aCBkPSJNMTAuMjMzIDE5LjQ5NjlDNi40MTMxMiAxOC45OTUzIDEyLjMyNzUgMTcuNjEzOSAxMi4zMjc1IDE3LjYxMzlDMTIuMzI3NSAxNy42MTM5IDEwLjAzMDcgMTcuNDYxNiA3LjIwNTkyIDE4LjgwNDNDMy44NjU3NyAyMC4zOTMyIDE1LjQ2ODEgMjEuMTE1OCAyMS40NzQgMTkuNTYyNUMyMi4wOTg0IDE5LjE0MzIgMjIuOTYxNCAxOC43Nzk4IDIyLjk2MTQgMTguNzc5OEMyMi45NjE0IDE4Ljc3OTggMjAuNTAzNyAxOS4yMTE0IDE4LjA1NjEgMTkuNDE0NUMxNS4wNjEyIDE5LjY2MTIgMTEuODQ1OSAxOS43MDkzIDEwLjIzMyAxOS40OTY5WiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTExLjY4NjQgMjIuNDc1OEM5LjU1NjI0IDIyLjI1OTIgMTAuOTUxIDIxLjI0MzkgMTAuOTUxIDIxLjI0MzlDNS40Mzg5OCAyMy4wNDI5IDE0LjAxNzggMjUuMDgzIDIxLjcxOTkgMjIuODY4MkMyMC45MDEyIDIyLjU4NDQgMjAuMzgwNiAyMi4wNjUzIDIwLjM4MDYgMjIuMDY1M0MxNi42MTYzIDIyLjc3ODEgMTQuNDQxIDIyLjc1NTMgMTEuNjg2NCAyMi40NzU4WiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTEyLjYxNDUgMjUuNjk5MUMxMC40ODYgMjUuNDU4NSAxMS43Mjk1IDI0Ljc0NzQgMTEuNzI5NSAyNC43NDc0QzYuNzI1OTQgMjYuMTIyMiAxNC43NzI5IDI4Ljk2MjUgMjEuMTQzMyAyNi4yNzc3QzIwLjA5OTkgMjUuODc4NyAxOS4zNTI4IDI1LjQxODEgMTkuMzUyOCAyNS40MTgxQzE2LjUxMTEgMjUuOTQ2OSAxNS4xOTMxIDI1Ljk4ODQgMTIuNjE0NSAyNS42OTkxWiIgZmlsbD0iIzUzODJBMSIvPg0KPHBhdGggZD0iTTI1LjkzODcgMjcuMzM4OEMyNS45Mzg3IDI3LjMzODggMjYuODU4OSAyOC4wODQ0IDI0LjkyNTIgMjguNjYxMkMyMS4yNDgxIDI5Ljc1NjYgOS42MjA5MyAzMC4wODc0IDYuMzkwOTQgMjguNzA0OUM1LjIyOTg0IDI4LjIwODIgNy40MDcyMyAyNy41MTg5IDguMDkyMTUgMjcuMzc0MkM4LjgwNjQ2IDI3LjIyMTkgOS4yMTQ2NiAyNy4yNTAzIDkuMjE0NjYgMjcuMjUwM0M3LjkyMzQgMjYuMzU1OCAwLjg2ODQ4OSAyOS4wMDY3IDUuNjMxMTEgMjkuNzY1OUMxOC42MTk1IDMxLjgzNzIgMjkuMzA3NyAyOC44MzMxIDI1LjkzODcgMjcuMzM4OFoiIGZpbGw9IiM1MzgyQTEiLz4NCjxwYXRoIGQ9Ik0yOCAyOC45Njc5QzI3Ljc4NjkgMzEuNjk0NyAxOC43ODc3IDMyLjI2ODMgMTIuOTI3NCAzMS44OTk0QzkuMTA0MzIgMzEuNjU4MyA4LjMzODEyIDMxLjA1NTggOC4zMjY5MSAzMS4wNDdDMTEuOTg1OSAzMS42NDAyIDE4LjE1NDkgMzEuNzQ4MiAyMy4xNTY4IDMwLjgyMjVDMjcuNTkwMyAzMC4wMDE2IDI4IDI4Ljk2NzkgMjggMjguOTY3OVoiIGZpbGw9IiM1MzgyQTEiLz4NCjwvc3ZnPg==)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=coffee&logoColor=ED8B00)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-#### **Web Technologies**
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### **Tools & Technologies**
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-333?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+### Backend Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+
+### Frontend Frameworks & Technologies
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+
+### Databases & Data Management
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### Development Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql&logoColor=336791)
-![Firebase](https://img.shields.io/badge/-Firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=vue-dark&text_bold=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&langs_count=10&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frost23z&show_icons=true&theme=vue-dark&text_bold=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frost23z&layout=compact&langs_count=10&theme=vue-dark&hide_border=true"/>
 </div>
 
-### 🤝 Let's Connect!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frost23z&radius=16&theme=react&area=true&order=5" height="300" alt="Contribution activity graph">
+</div>
+
+---
+
+## 🤝 Connect
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zayed23/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayed7h2@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayed7h2@gmail.com)
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- 💻 Spring Boot/Java and Laravel/PHP services (APIs, microservices)
+- 🌐 Full-stack web apps with React and Vue.js
+- 📱 Android builds and maintenance
+- 🏗️ Advanced system design and architecture
+- ☁️ Cloud deployment and DevOps practices
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!**
 
 </div>
 
